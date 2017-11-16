@@ -1,3 +1,16 @@
+Feed Reader testing
+===============================
+# How to run the project
+
+  **1.** Clone this repo:
+
+```
+$ https://github.com/mahimavai2000/frontend-nanodegree-feedreader.git
+```
+or 
+**2.** Download the repository:
+Download the repository in your desktop, unzip it and open the "index.html" file in your browser to run this project.
+
 # This project contains 4 test suites and 7 tests.
 
 1. The first test suite "RSS feeds" just contains a related set of tests. 
